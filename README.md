@@ -9,6 +9,10 @@ This repository is meant to store and share my dotfiles from Arch Linux customiz
 This collection contains my personal dotfiles for:
 - **Arch Linux** - A lightweight and flexible Linux distribution
 - **Hyprland** - A dynamic tiling Wayland compositor
+- **Hyprpaper** - A dynamic wallpaper manager for Hyprland
+- **Kitty** - A simple and easy-to-customize terminal
+- **Wofi** - A minimalistic app-launcher
+- **Waybar** - A simple statusbar for Wayland 
 
 ## Screenshots
 
