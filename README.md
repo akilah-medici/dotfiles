@@ -1,5 +1,10 @@
 # Dot-Files
 
+## Screenshots
+
+![Screenshot 1](https://drive.google.com/uc?id=1F2jcdiWZ3RMJ6s3W4LAMzDGKvZLLHEZ5)
+![Screenshot 2](https://drive.google.com/uc?id=17S-GDDwlkib8b6Hfk2omUO-J_qkRWuJH)
+
 This repository is meant to store and share my dotfiles from Arch Linux customization on Hyprland. Here you'll find configuration files and customizations for a modern Linux desktop environment.
 
 ## About
@@ -14,7 +19,7 @@ This repository is organized to store various configuration files that make up m
 
 ## Usage
 
-Feel free to browse through the configurations and adapt them to your own setup. These dotfiles are tailored to my specific workflow but can serve as inspiration or starting points for your own customizations.
+Feel free to browse through the configurations and adapt them to your own setup. These dotfiles are tailored to my specific workflow but can serve as inspiration or starting points for your own customization.
 
 ## Contributing
 
