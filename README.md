@@ -1,17 +1,20 @@
 # Dot-Files
 
-## Screenshots
+This repository is meant to store and share my dotfiles from Arch Linux customization on Hyprland. Here you'll find configuration files and customizations for a modern Linux desktop environment.
 
 ![Screenshot 1](https://drive.google.com/uc?id=1F2jcdiWZ3RMJ6s3W4LAMzDGKvZLLHEZ5)
-![Screenshot 2](https://drive.google.com/uc?id=17S-GDDwlkib8b6Hfk2omUO-J_qkRWuJH)
-
-This repository is meant to store and share my dotfiles from Arch Linux customization on Hyprland. Here you'll find configuration files and customizations for a modern Linux desktop environment.
 
 ## About
 
 This collection contains my personal dotfiles for:
 - **Arch Linux** - A lightweight and flexible Linux distribution
 - **Hyprland** - A dynamic tiling Wayland compositor
+
+## Screenshots
+
+Below is another screenshot of the customized environment:
+
+![Screenshot 2](https://drive.google.com/uc?id=17S-GDDwlkib8b6Hfk2omUO-J_qkRWuJH)
 
 ## Repository Structure
 
