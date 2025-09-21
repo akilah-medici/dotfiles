@@ -28,6 +28,22 @@ This repository is organized to store various configuration files that make up m
 
 Feel free to browse through the configurations and adapt them to your own setup. These dotfiles are tailored to my specific workflow but can serve as inspiration or starting points for your own customization.
 
+You can easily install the files from this repository using the available `.sh` scripts. You have two options:
+
+- Download the script and run it directly with:
+  
+  ```bash
+  ./install.sh
+  ```
+
+- Or, if you prefer, execute the installation script directly from your terminal with the command below, without needing to download it manually:
+
+  ```bash
+  curl -fsSL https://raw.githubusercontent.com/akilah-medici/dotfiles/main/install.sh | bash
+  ```
+
+Both options allow you to automatically set up the files on your system.
+
 ## Contributing
 
 This is a personal dotfiles repository, but if you have suggestions or improvements, feel free to open an issue or pull request.
